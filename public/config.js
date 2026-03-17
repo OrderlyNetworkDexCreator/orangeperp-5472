@@ -27,7 +27,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "Orange",
   "VITE_SEO_SITE_DESCRIPTION": "The premier decentralized perpetuals exchange on Arbitrum & Base",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/orangeperp-5472/",
+  "VITE_SEO_SITE_URL": "https://orangeperps.com",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
