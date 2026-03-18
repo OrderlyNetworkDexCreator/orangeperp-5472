@@ -1,6 +1,6 @@
 :root {
-  --oui-font-family: 'IBM Plex Sans', sans-serif;
-  --trading-disabled-text: "Trading Disabled";
+  --oui-font-family: 'Ubuntu', sans-serif;
+  --oui-font-size-base: 16px;
 
   /* colors */
   --oui-color-primary: 255 107 0;
@@ -47,9 +47,9 @@
   --oui-color-base-foreground: 255 255 255;
   --oui-color-line: 51 51 51;
 
-  --oui-color-trading-loss: 251 65 74;
+  --oui-color-trading-loss: 238 121 43;
   --oui-color-trading-loss-contrast: 255 255 255;
-  --oui-color-trading-profit: 29 195 90;
+  --oui-color-trading-profit: 127 186 0;
   --oui-color-trading-profit-contrast: 255 255 255;
 
   /* gradients */
@@ -95,6 +95,13 @@
 }
 
 html, body {
-  font-family: 'IBM Plex Sans', sans-serif !important;
-  font-size: 15.5px !important;
+  font-family: 'Ubuntu', sans-serif !important;
+  font-size: 16px !important;
+}
+
+.orderly-app-container,
+.orderly-app-container *,
+.orderly-app-container *::before,
+.orderly-app-container *::after {
+  font-family: 'Ubuntu', sans-serif !important;
 }
