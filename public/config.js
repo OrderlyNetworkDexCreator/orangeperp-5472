@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "The premier decentralized perpetuals exchange",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Rewards,Points,Campaigns",
+  "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Rewards,Campaigns",
   "VITE_CUSTOM_MENUS": "OrangeSwap, https://home.orangeperps.com/swap; Homepage, https://home.orangeperps.com",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "true",
   "VITE_ENABLE_CAMPAIGNS": "false",
